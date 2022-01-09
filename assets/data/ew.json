@@ -1,0 +1,3394 @@
+{
+    "config": {
+        "languageOrder": {
+            "translation": "translation",
+            "word": "word"
+        }
+    },
+    "answers": 6,
+    "experience": 59975,
+    "recent": {
+        "jezyk-angielski-zawodowy": [
+            {
+                "part": "part_01",
+                "unit": "unit_04"
+            },
+            {
+                "unit": "unit_06",
+                "part": "part_01"
+            },
+            {
+                "part": "part_01",
+                "unit": "unit_02"
+            },
+            {
+                "unit": "unit_05",
+                "part": "test"
+            },
+            {
+                "part": "part_02",
+                "unit": "unit_02"
+            },
+            {
+                "part": "test",
+                "unit": "unit_5.test"
+            }
+        ],
+        "repetytorium": [
+            {
+                "unit": "unit_01",
+                "part": "part_04"
+            },
+            {
+                "unit": "unit_14",
+                "part": "part_01"
+            },
+            {
+                "unit": "unit_01",
+                "part": "part_01"
+            },
+            {
+                "unit": "unit_01",
+                "part": "part_05"
+            },
+            {
+                "part": "part_01",
+                "unit": "unit_04"
+            },
+            {
+                "part": "part_01",
+                "unit": "unit_03"
+            },
+            {
+                "unit": "unit_13",
+                "part": "part_01"
+            },
+            {
+                "unit": "unit_05",
+                "part": "part_05"
+            },
+            {
+                "unit": "unit_05",
+                "part": "part_02"
+            },
+            {
+                "unit": "unit_05",
+                "part": "part_01"
+            },
+            {
+                "part": "part_03",
+                "unit": "unit_14"
+            },
+            {
+                "unit": "unit_09",
+                "part": "part_01"
+            },
+            {
+                "unit": "unit_14",
+                "part": "part_02"
+            },
+            {
+                "unit": "unit_01",
+                "part": "part_03"
+            },
+            {
+                "unit": "unit_03",
+                "part": "test"
+            },
+            {
+                "part": "part_08",
+                "unit": "unit_11"
+            },
+            {
+                "unit": "unit_01",
+                "part": "part_02"
+            },
+            {
+                "unit": "unit_12",
+                "part": "part_07"
+            },
+            {
+                "unit": "unit_13",
+                "part": "part_04"
+            },
+            {
+                "part": "part_01",
+                "unit": "unit_02"
+            }
+        ]
+    },
+    "premium": true,
+    "points": {
+        "euro-klasa": {
+            "units": {
+                "unit_03": {
+                    "parts": {
+                        "test": {
+                            "level": 0,
+                            "points": 1
+                        }
+                    }
+                }
+            }
+        },
+        "book_03": {
+            "name": "Język angielski zawodowy",
+            "units": {
+                "unit_04": {
+                    "parts": {
+                        "part_02": {
+                            "languageOrder": {
+                                "word": "translation",
+                                "translation": "word"
+                            },
+                            "goodAnswers": [],
+                            "complete": 1,
+                            "level": 2,
+                            "points": 26
+                        },
+                        "test": {
+                            "points": 0,
+                            "level": 1
+                        },
+                        "part_01": {
+                            "level": 3,
+                            "points": 42,
+                            "goodAnswers": [
+                                {
+                                    "translation": "container",
+                                    "word": "kontener"
+                                },
+                                {
+                                    "word": "zlecenie transportowe",
+                                    "translation": "shipping order"
+                                },
+                                {
+                                    "word": "układnica",
+                                    "translation": "stacker"
+                                },
+                                {
+                                    "word": "zlecenie transportowe",
+                                    "translation": "shipping order"
+                                },
+                                {
+                                    "word": "układnica",
+                                    "translation": "stacker"
+                                },
+                                {
+                                    "word": "rodzaj promu towarowego",
+                                    "translation": "roll-on roll-off"
+                                },
+                                {
+                                    "word": "manipulator",
+                                    "translation": "manipulator"
+                                },
+                                {
+                                    "word": "rodzaj promu towarowego",
+                                    "translation": "roll-on roll-off"
+                                },
+                                {
+                                    "word": "platforma",
+                                    "translation": "Flatcar wagon"
+                                },
+                                {
+                                    "word": "papiery wartościowe",
+                                    "translation": "securities"
+                                },
+                                {
+                                    "translation": "Flatcar wagon",
+                                    "word": "platforma"
+                                },
+                                {
+                                    "translation": "traffic jam",
+                                    "word": "korek uliczny"
+                                },
+                                {
+                                    "word": "załadować",
+                                    "translation": "load"
+                                },
+                                {
+                                    "translation": "pallet feeder",
+                                    "word": "podajnik palet"
+                                },
+                                {
+                                    "word": "warunki dostawy",
+                                    "translation": "terms of delivery"
+                                },
+                                {
+                                    "word": "ciężki pojazd towarowy",
+                                    "translation": "Large Goods Vehicle (LGV)"
+                                },
+                                {
+                                    "word": "warunki dostawy",
+                                    "translation": "terms of delivery"
+                                },
+                                {
+                                    "translation": "delivery note",
+                                    "word": "potwierdzenie dostawy"
+                                },
+                                {
+                                    "word": "warunki dostawy",
+                                    "translation": "terms of delivery"
+                                },
+                                {
+                                    "word": "żuraw bramowy",
+                                    "translation": "gantry crane"
+                                },
+                                {
+                                    "translation": "terms of delivery",
+                                    "word": "warunki dostawy"
+                                },
+                                {
+                                    "word": "żuraw",
+                                    "translation": "crane"
+                                },
+                                {
+                                    "word": "pociąg osobowy",
+                                    "translation": "passenger train"
+                                },
+                                {
+                                    "translation": "drag conveyor",
+                                    "word": "przenośnik zgarniakowy"
+                                },
+                                {
+                                    "translation": "belt conveyor",
+                                    "word": "przenośnik taśmowy"
+                                },
+                                {
+                                    "translation": "drag conveyor",
+                                    "word": "przenośnik zgarniakowy"
+                                },
+                                {
+                                    "translation": "minimize any delays",
+                                    "word": "minimalizować opóźnienia"
+                                },
+                                {
+                                    "translation": "Intermediate Bulk Container",
+                                    "word": "pojemnik do przewozu luzem"
+                                },
+                                {
+                                    "translation": "drive a lorry",
+                                    "word": "prowadzić ciężarówkę"
+                                },
+                                {
+                                    "word": "gotówka",
+                                    "translation": "cash"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "unit_05": {
+                    "parts": {
+                        "test": {
+                            "points": 1,
+                            "goodAnswers": [],
+                            "level": 1
+                        }
+                    }
+                },
+                "unit_06": {
+                    "parts": {
+                        "test": {
+                            "points": 1,
+                            "level": 1,
+                            "goodAnswers": []
+                        },
+                        "part_01": {
+                            "goodAnswers": [
+                                {
+                                    "word": "coal",
+                                    "translation": "węgiel"
+                                }
+                            ],
+                            "points": null
+                        }
+                    }
+                },
+                "unit_01": {
+                    "parts": {
+                        "test": {
+                            "points": 0,
+                            "goodAnswers": [],
+                            "level": 1
+                        }
+                    }
+                },
+                "unit_07": {
+                    "parts": {
+                        "test": {
+                            "level": 1,
+                            "points": 0,
+                            "goodAnswers": []
+                        }
+                    }
+                },
+                "unit_02": {
+                    "parts": {
+                        "part_02": {
+                            "level": 7,
+                            "goodAnswers": [
+                                {
+                                    "word": "eighth (8th)",
+                                    "translation": "ósmy"
+                                },
+                                {
+                                    "translation": "dwunasty",
+                                    "word": "twelfth (12th)"
+                                }
+                            ],
+                            "points": 215
+                        },
+                        "test": {
+                            "points": 0,
+                            "goodAnswers": [],
+                            "level": 1
+                        },
+                        "part_01": {
+                            "goodAnswers": [],
+                            "level": 6,
+                            "points": 206
+                        }
+                    }
+                },
+                "unit_03": {
+                    "parts": {
+                        "test": {
+                            "level": 1,
+                            "points": 0,
+                            "goodAnswers": []
+                        }
+                    }
+                }
+            }
+        },
+        "book_01": {
+            "units": {
+                "unit_04": {
+                    "parts": {
+                        "part_01": {
+                            "points": 30,
+                            "goodAnswers": [],
+                            "level": 3
+                        },
+                        "test": {
+                            "points": 2,
+                            "level": 1
+                        },
+                        "part_04": {
+                            "level": 1,
+                            "points": 0
+                        },
+                        "part_02": {
+                            "level": 1,
+                            "points": 0,
+                            "goodAnswers": []
+                        },
+                        "part_03": {
+                            "level": 1,
+                            "points": 0
+                        },
+                        "part_05": {
+                            "points": 0,
+                            "level": 1
+                        }
+                    }
+                },
+                "unit_06": {
+                    "parts": {
+                        "part_03": {
+                            "points": 64,
+                            "goodAnswers": [],
+                            "complete": 1,
+                            "level": 4,
+                            "languageOrder": {
+                                "word": "word",
+                                "translation": "translation"
+                            }
+                        },
+                        "part_06": {
+                            "level": 1,
+                            "points": 0
+                        },
+                        "part_04": {
+                            "level": 1,
+                            "points": 0
+                        },
+                        "part_01": {
+                            "points": 1,
+                            "level": 1,
+                            "goodAnswers": [
+                                "sparkling"
+                            ]
+                        },
+                        "part_05": {
+                            "points": 0,
+                            "level": 1
+                        },
+                        "part_02": {
+                            "level": 1,
+                            "points": 0
+                        }
+                    }
+                },
+                "unit_12": {
+                    "parts": {
+                        "part_07": {
+                            "points": 0,
+                            "goodAnswers": [],
+                            "level": 1
+                        },
+                        "part_01": {
+                            "level": 5,
+                            "points": 100
+                        },
+                        "test": {
+                            "points": 0,
+                            "level": 1
+                        },
+                        "part_02": {
+                            "level": 1,
+                            "points": 3
+                        },
+                        "part_06": {
+                            "points": 0,
+                            "level": 1
+                        },
+                        "part_04": {
+                            "points": 0,
+                            "level": 1
+                        },
+                        "part_03": {
+                            "points": 0,
+                            "level": 1
+                        },
+                        "part_05": {
+                            "points": 0,
+                            "level": 1
+                        }
+                    }
+                },
+                "unit_01": {
+                    "parts": {
+                        "part_07": {
+                            "goodAnswers": [
+                                {
+                                    "translation": "eutanazja",
+                                    "word": "eutanasia"
+                                },
+                                {
+                                    "translation": "inżynieria genetyczna",
+                                    "word": "genetic engineering"
+                                },
+                                {
+                                    "word": "gambling",
+                                    "translation": "hazard"
+                                },
+                                {
+                                    "translation": "kara śmierci",
+                                    "word": "dealth penatly"
+                                },
+                                {
+                                    "translation": "zażywanie narkotyków",
+                                    "word": "drug abuse"
+                                },
+                                {
+                                    "translation": "kara śmierci",
+                                    "word": "dealth penatly"
+                                },
+                                {
+                                    "word": "racism",
+                                    "translation": "rasizm"
+                                },
+                                {
+                                    "translation": "korupcja",
+                                    "word": "corruption"
+                                },
+                                {
+                                    "word": "charity",
+                                    "translation": "dobroczynność"
+                                },
+                                {
+                                    "translation": "kara śmierci",
+                                    "word": "death penatly"
+                                },
+                                {
+                                    "word": "fair trade",
+                                    "translation": "sprawiedliwy handel"
+                                },
+                                {
+                                    "translation": "wolność słowa",
+                                    "word": "freedom of speech"
+                                }
+                            ],
+                            "points": 18,
+                            "level": 2,
+                            "languageOrder": {
+                                "word": "translation",
+                                "translation": "word"
+                            }
+                        },
+                        "part_04": {
+                            "points": 12,
+                            "languageOrder": {
+                                "word": "translation",
+                                "translation": "word"
+                            },
+                            "goodAnswers": [
+                                {
+                                    "translation": "introwertyk",
+                                    "word": "introvert"
+                                }
+                            ],
+                            "level": 2
+                        },
+                        "part_06": {
+                            "goodAnswers": [
+                                "be hopeless at",
+                                "can't stand",
+                                "work out",
+                                "adore",
+                                "be mad about sth (something)"
+                            ],
+                            "points": 3,
+                            "languageOrder": {
+                                "translation": "translation",
+                                "word": "word"
+                            },
+                            "level": 1
+                        },
+                        "part_01": {
+                            "languageOrder": {
+                                "translation": "word",
+                                "word": "translation"
+                            },
+                            "level": 10,
+                            "points": 572,
+                            "goodAnswers": [
+                                {
+                                    "translation": "wiek",
+                                    "word": "age"
+                                },
+                                {
+                                    "translation": "kraj zamieszkania",
+                                    "word": "country of residence"
+                                }
+                            ],
+                            "complete": 6
+                        },
+                        "part_08": {
+                            "level": 1,
+                            "points": 0,
+                            "goodAnswers": []
+                        },
+                        "part_03": {
+                            "points": 110,
+                            "goodAnswers": [
+                                {
+                                    "translation": "spódnica",
+                                    "word": "skirt"
+                                },
+                                {
+                                    "word": "necklace",
+                                    "translation": "naszyjnik"
+                                },
+                                {
+                                    "translation": "gładki",
+                                    "word": "plain"
+                                },
+                                {
+                                    "word": "necklace",
+                                    "translation": "naszyjnik"
+                                },
+                                {
+                                    "word": "long-sleeved (shirt)",
+                                    "translation": "z długim rękawem (koszula)"
+                                },
+                                {
+                                    "translation": "krawat",
+                                    "word": "tie"
+                                },
+                                {
+                                    "translation": "kolczyki",
+                                    "word": "earrings"
+                                },
+                                {
+                                    "translation": "dekolt w szpic",
+                                    "word": "V-neck"
+                                },
+                                {
+                                    "translation": "kolczyki",
+                                    "word": "earrings"
+                                },
+                                {
+                                    "word": "short-sleeved",
+                                    "translation": "z krótkim rękawem (koszula)"
+                                },
+                                {
+                                    "word": "scarf",
+                                    "translation": "szalik"
+                                },
+                                {
+                                    "translation": "trendy",
+                                    "word": "fashionable"
+                                },
+                                {
+                                    "word": "sweatshirt",
+                                    "translation": "bluza sportowa"
+                                },
+                                {
+                                    "translation": "staromodny",
+                                    "word": "old-fashioned"
+                                },
+                                {
+                                    "word": "sweatshirt",
+                                    "translation": "bluza sportowa"
+                                },
+                                {
+                                    "word": "striped",
+                                    "translation": "w paski"
+                                },
+                                {
+                                    "word": "shoes",
+                                    "translation": "buty"
+                                },
+                                {
+                                    "translation": "szlafrok",
+                                    "word": "dressing gown"
+                                },
+                                {
+                                    "translation": "guzik",
+                                    "word": "button"
+                                },
+                                {
+                                    "word": "dressing gown",
+                                    "translation": "szlafrok"
+                                },
+                                {
+                                    "word": "casual",
+                                    "translation": "codzienny"
+                                },
+                                {
+                                    "translation": "wysokie buty",
+                                    "word": "boots"
+                                },
+                                {
+                                    "word": "cuffs",
+                                    "translation": "mankiety"
+                                },
+                                {
+                                    "word": "boots",
+                                    "translation": "wysokie buty"
+                                },
+                                {
+                                    "translation": "mankiety",
+                                    "word": "cuffs"
+                                },
+                                {
+                                    "word": "underwear",
+                                    "translation": "bielizna"
+                                },
+                                {
+                                    "translation": "garnitur",
+                                    "word": "suit"
+                                },
+                                {
+                                    "word": "wool",
+                                    "translation": "wełna"
+                                },
+                                {
+                                    "translation": "rękawiczki",
+                                    "word": "gloves"
+                                },
+                                {
+                                    "word": "shorts",
+                                    "translation": "szorty"
+                                },
+                                {
+                                    "word": "sandals",
+                                    "translation": "sandały"
+                                },
+                                {
+                                    "word": "wear",
+                                    "translation": "nosić"
+                                },
+                                {
+                                    "word": "slippers",
+                                    "translation": "kapcie"
+                                },
+                                {
+                                    "word": "wear",
+                                    "translation": "nosić"
+                                },
+                                {
+                                    "translation": "kapcie",
+                                    "word": "slippers"
+                                },
+                                {
+                                    "translation": "spodnie",
+                                    "word": "throusers"
+                                },
+                                {
+                                    "word": "silk",
+                                    "translation": "jedwab"
+                                },
+                                {
+                                    "word": "throusers",
+                                    "translation": "spodnie"
+                                },
+                                {
+                                    "translation": "jedwab",
+                                    "word": "silk"
+                                },
+                                {
+                                    "translation": "srebro",
+                                    "word": "silver"
+                                },
+                                {
+                                    "translation": "jedwab",
+                                    "word": "silk"
+                                },
+                                {
+                                    "word": "cotton",
+                                    "translation": "bawełna"
+                                },
+                                {
+                                    "word": "ring",
+                                    "translation": "pierścionek"
+                                },
+                                {
+                                    "translation": "kurtka",
+                                    "word": "jacket"
+                                },
+                                {
+                                    "translation": "okulary",
+                                    "word": "glasses"
+                                },
+                                {
+                                    "translation": "płaszcz",
+                                    "word": "coat"
+                                },
+                                {
+                                    "translation": "okulary",
+                                    "word": "glasses"
+                                },
+                                {
+                                    "translation": "płaszcz",
+                                    "word": "coat"
+                                },
+                                {
+                                    "word": "glasses",
+                                    "translation": "okulary"
+                                },
+                                {
+                                    "translation": "płaszcz",
+                                    "word": "coat"
+                                },
+                                {
+                                    "translation": "bransoletka",
+                                    "word": "bracelet"
+                                },
+                                {
+                                    "translation": "płaszcz",
+                                    "word": "coat"
+                                },
+                                {
+                                    "translation": "biżuteria",
+                                    "word": "jewellery"
+                                },
+                                {
+                                    "word": "coat",
+                                    "translation": "płaszcz"
+                                },
+                                {
+                                    "translation": "biżuteria",
+                                    "word": "jewellery"
+                                },
+                                {
+                                    "translation": "płaszcz",
+                                    "word": "coat"
+                                },
+                                {
+                                    "translation": "biżuteria",
+                                    "word": "jewellery"
+                                },
+                                {
+                                    "word": "shoe laces",
+                                    "translation": "sznurówki"
+                                },
+                                {
+                                    "word": "boat-necked",
+                                    "translation": "z szerokim dekoltem (bluzka, sweter)"
+                                },
+                                {
+                                    "word": "shoe laces",
+                                    "translation": "sznurówki"
+                                },
+                                {
+                                    "word": "boat-necked",
+                                    "translation": "z szerokim dekoltem (bluzka, sweter)"
+                                },
+                                {
+                                    "translation": "sznurówki",
+                                    "word": "shoe laces"
+                                }
+                            ],
+                            "level": 5
+                        },
+                        "test": {
+                            "points": 72,
+                            "goodAnswers": [
+                                {
+                                    "translation": "kitka",
+                                    "word": "ponytail"
+                                },
+                                {
+                                    "word": "cardigan",
+                                    "translation": "rozpinany sweter"
+                                },
+                                {
+                                    "word": "bossy",
+                                    "translation": "apodyktyczny"
+                                },
+                                {
+                                    "translation": "wąsy",
+                                    "word": "moustache"
+                                },
+                                {
+                                    "translation": "nosić rozpuszczone włosy",
+                                    "word": "wear your hair loose"
+                                },
+                                {
+                                    "translation": "kołnież",
+                                    "word": "collar"
+                                },
+                                {
+                                    "word": "spot",
+                                    "translation": "dostrzec"
+                                },
+                                {
+                                    "word": "exhausted",
+                                    "translation": "wyczerpany"
+                                },
+                                {
+                                    "word": "spot",
+                                    "translation": "dostrzec"
+                                },
+                                {
+                                    "translation": "owdowiały",
+                                    "word": "widowed"
+                                },
+                                {
+                                    "translation": "rękawiczki",
+                                    "word": "gloves"
+                                },
+                                {
+                                    "translation": "kamizelka",
+                                    "word": "waistcoat"
+                                },
+                                {
+                                    "translation": "lubić coś robić",
+                                    "word": "be keen on sth (something)"
+                                },
+                                {
+                                    "translation": "na zamek",
+                                    "word": "zip-up"
+                                },
+                                {
+                                    "word": "be keen on sth (something)",
+                                    "translation": "lubić coś robić"
+                                },
+                                {
+                                    "translation": "sprawny",
+                                    "word": "fit"
+                                },
+                                {
+                                    "word": "stocky",
+                                    "translation": "krępy"
+                                },
+                                {
+                                    "translation": "umięśniony",
+                                    "word": "muscular"
+                                },
+                                {
+                                    "translation": "zajmować się czymś",
+                                    "word": "be into sth (something)"
+                                },
+                                {
+                                    "word": "handbag",
+                                    "translation": "torebka"
+                                },
+                                {
+                                    "translation": "zajmować się czymś",
+                                    "word": "be into sth (something)"
+                                },
+                                {
+                                    "word": "focus on",
+                                    "translation": "skupiać się na"
+                                },
+                                {
+                                    "translation": "tatuaż",
+                                    "word": "tattoo"
+                                },
+                                {
+                                    "word": "fitness maniac",
+                                    "translation": "fanatyk ćwiczeń fizycznych"
+                                },
+                                {
+                                    "word": "bald",
+                                    "translation": "łysy"
+                                },
+                                {
+                                    "word": "suit",
+                                    "translation": "garnitur"
+                                },
+                                {
+                                    "word": "weirdo",
+                                    "translation": "dziwak"
+                                },
+                                {
+                                    "translation": "hazard",
+                                    "word": "gambling"
+                                },
+                                {
+                                    "word": "wrinkles",
+                                    "translation": "zmarszczki"
+                                },
+                                {
+                                    "translation": "narodowość",
+                                    "word": "nationality"
+                                },
+                                {
+                                    "translation": "sweter",
+                                    "word": "jumper"
+                                },
+                                {
+                                    "word": "amazed",
+                                    "translation": "zdumiony"
+                                }
+                            ],
+                            "level": 4
+                        },
+                        "part_02": {
+                            "goodAnswers": [
+                                {
+                                    "word": "overpriced",
+                                    "translation": "zbyt drogi"
+                                }
+                            ],
+                            "languageOrder": {
+                                "word": "word",
+                                "translation": "translation"
+                            },
+                            "points": 103,
+                            "level": 5
+                        },
+                        "part_05": {
+                            "points": 85,
+                            "level": 4,
+                            "goodAnswers": [],
+                            "languageOrder": {
+                                "word": "translation",
+                                "translation": "word"
+                            }
+                        }
+                    }
+                },
+                "unit_08": {
+                    "parts": {
+                        "part_02": {
+                            "points": 0,
+                            "level": 1
+                        },
+                        "test": {
+                            "level": 1,
+                            "points": 0
+                        },
+                        "part_03": {
+                            "points": 0,
+                            "level": 1
+                        },
+                        "part_01": {
+                            "level": 1,
+                            "goodAnswers": [
+                                {
+                                    "word": "line",
+                                    "translation": "linia"
+                                },
+                                {
+                                    "translation": "samolot",
+                                    "word": "plane"
+                                },
+                                {
+                                    "word": "season ticket",
+                                    "translation": "bilet okresowy"
+                                }
+                            ],
+                            "points": 4
+                        },
+                        "part_04": {
+                            "level": 1,
+                            "points": 0
+                        },
+                        "part_06": {
+                            "points": 0,
+                            "level": 1
+                        },
+                        "part_05": {
+                            "level": 1,
+                            "points": 0
+                        }
+                    }
+                },
+                "unit_03": {
+                    "parts": {
+                        "part_03": {
+                            "level": 1,
+                            "points": 1
+                        },
+                        "part_02": {
+                            "level": 1,
+                            "points": 0
+                        },
+                        "part_05": {
+                            "level": 1,
+                            "points": 0
+                        },
+                        "part_04": {
+                            "languageOrder": {
+                                "translation": "word",
+                                "word": "translation"
+                            },
+                            "level": 1,
+                            "points": 8,
+                            "goodAnswers": [
+                                {
+                                    "word": "zajęcia pozalekcyjne",
+                                    "translation": "zajęcia pozalekcyjne"
+                                },
+                                {
+                                    "translation": "wycieczka szkolna",
+                                    "word": "school trip"
+                                },
+                                {
+                                    "translation": "członek",
+                                    "word": "member"
+                                },
+                                {
+                                    "translation": "obóz letni",
+                                    "word": "summer camp"
+                                }
+                            ]
+                        },
+                        "test": {
+                            "goodAnswers": [
+                                {
+                                    "translation": "prezentować",
+                                    "word": "present"
+                                },
+                                {
+                                    "word": "training",
+                                    "translation": "szkolenie"
+                                },
+                                {
+                                    "word": "workshop",
+                                    "translation": "warsztat"
+                                },
+                                {
+                                    "word": "sports psychology",
+                                    "translation": "psychologia sportu"
+                                },
+                                {
+                                    "word": "workshop",
+                                    "translation": "warsztat"
+                                },
+                                {
+                                    "translation": "kolegium",
+                                    "word": "college"
+                                },
+                                {
+                                    "word": "workshop",
+                                    "translation": "warsztat"
+                                },
+                                {
+                                    "word": "college",
+                                    "translation": "kolegium"
+                                },
+                                {
+                                    "word": "student",
+                                    "translation": "uczeń"
+                                },
+                                {
+                                    "word": "revise for",
+                                    "translation": "powtarzać do"
+                                },
+                                {
+                                    "word": "subdivide",
+                                    "translation": "dzielić się na mniejsze grupy"
+                                },
+                                {
+                                    "translation": "powtarzać do",
+                                    "word": "revise for"
+                                },
+                                {
+                                    "translation": "dzielić się na mniejsze grupy",
+                                    "word": "subdivide"
+                                },
+                                {
+                                    "word": "revise for",
+                                    "translation": "powtarzać do"
+                                },
+                                {
+                                    "translation": "boisko",
+                                    "word": "sports field"
+                                },
+                                {
+                                    "word": "revise for",
+                                    "translation": "powtarzać do"
+                                },
+                                {
+                                    "word": "sports field",
+                                    "translation": "boisko"
+                                },
+                                {
+                                    "word": "revise for",
+                                    "translation": "powtarzać do"
+                                }
+                            ],
+                            "level": 1,
+                            "points": 6
+                        },
+                        "part_06": {
+                            "level": 1,
+                            "points": 0
+                        },
+                        "part_01": {
+                            "level": 4,
+                            "goodAnswers": [
+                                {
+                                    "translation": "ekonomia",
+                                    "word": "economic education"
+                                },
+                                {
+                                    "translation": "religia",
+                                    "word": "religious education"
+                                },
+                                {
+                                    "word": "environmental science",
+                                    "translation": "nauka o ochronie środowiska"
+                                },
+                                {
+                                    "word": "chemistry",
+                                    "translation": "chemia"
+                                },
+                                {
+                                    "translation": "historia",
+                                    "word": "history"
+                                },
+                                {
+                                    "word": "Polish",
+                                    "translation": "język polski"
+                                },
+                                {
+                                    "translation": "chemia",
+                                    "word": "chemistry"
+                                },
+                                {
+                                    "word": "PE",
+                                    "translation": "WF"
+                                },
+                                {
+                                    "translation": "informatyka",
+                                    "word": "IT"
+                                },
+                                {
+                                    "translation": "przedmioty ścisłe",
+                                    "word": "science subjects"
+                                },
+                                {
+                                    "word": "music",
+                                    "translation": "muzyka"
+                                },
+                                {
+                                    "translation": "przedmioty ścisłe",
+                                    "word": "science subjects"
+                                },
+                                {
+                                    "translation": "technika",
+                                    "word": "design and technology"
+                                }
+                            ],
+                            "points": 66
+                        }
+                    }
+                },
+                "unit_10": {
+                    "parts": {
+                        "test": {
+                            "level": 1,
+                            "points": 0
+                        },
+                        "part_02": {
+                            "level": 5,
+                            "points": 144,
+                            "goodAnswers": []
+                        },
+                        "part_01": {
+                            "goodAnswers": [
+                                {
+                                    "word": "long jump",
+                                    "translation": "skok w dal"
+                                },
+                                {
+                                    "translation": "łucznictwo",
+                                    "word": "archery"
+                                },
+                                {
+                                    "translation": "spadochroniarstwo",
+                                    "word": "skydiving"
+                                },
+                                {
+                                    "word": "freerunning",
+                                    "translation": "miejski bieg z przeszkodami"
+                                },
+                                {
+                                    "translation": "kierowca wyścigowy",
+                                    "word": "racing driver"
+                                },
+                                {
+                                    "translation": "dysk",
+                                    "word": "discus"
+                                },
+                                {
+                                    "translation": "bramka",
+                                    "word": "goal"
+                                },
+                                {
+                                    "word": "hand-gliding",
+                                    "translation": "lotniarstwo"
+                                },
+                                {
+                                    "translation": "stok",
+                                    "word": "slope"
+                                },
+                                {
+                                    "word": "hand-gliding",
+                                    "translation": "lotniarstwo"
+                                },
+                                {
+                                    "translation": "wspinacz",
+                                    "word": "climber"
+                                },
+                                {
+                                    "translation": "kij (baseballowy lub rakieta pingpongowa)",
+                                    "word": "bat"
+                                },
+                                {
+                                    "word": "wrestling",
+                                    "translation": "zapasy"
+                                },
+                                {
+                                    "word": "basketball",
+                                    "translation": "koszykówka"
+                                },
+                                {
+                                    "word": "rugby player",
+                                    "translation": "rugbista"
+                                },
+                                {
+                                    "word": "heptathlon",
+                                    "translation": "siedmiobój"
+                                },
+                                {
+                                    "translation": "bokser",
+                                    "word": "boxer"
+                                },
+                                {
+                                    "word": "weightlifting",
+                                    "translation": "podnoszenie ciężarów"
+                                },
+                                {
+                                    "word": "water-skiing",
+                                    "translation": "narciarstwo wodne"
+                                },
+                                {
+                                    "translation": "skoki narciarskie",
+                                    "word": "ski jumping"
+                                },
+                                {
+                                    "word": "water-skiing",
+                                    "translation": "narciarstwo wodne"
+                                },
+                                {
+                                    "translation": "cyklista",
+                                    "word": "cyclist"
+                                },
+                                {
+                                    "translation": "pływanie",
+                                    "word": "swimming"
+                                },
+                                {
+                                    "translation": "żeglarz",
+                                    "word": "sailor"
+                                },
+                                {
+                                    "word": "obstacle race",
+                                    "translation": "biegi z przeszkodami"
+                                },
+                                {
+                                    "word": "decathlon",
+                                    "translation": "dziesięciobój"
+                                },
+                                {
+                                    "word": "motocross",
+                                    "translation": "wyścigi motocyklowe"
+                                },
+                                {
+                                    "translation": "nurek",
+                                    "word": "diver"
+                                },
+                                {
+                                    "translation": "deska",
+                                    "word": "board"
+                                },
+                                {
+                                    "word": "net",
+                                    "translation": "siatka"
+                                },
+                                {
+                                    "translation": "jazda na łyżworolkach",
+                                    "word": "rollerblading"
+                                },
+                                {
+                                    "word": "triathlon",
+                                    "translation": "triatlon"
+                                },
+                                {
+                                    "word": "basketball player",
+                                    "translation": "koszykarz"
+                                },
+                                {
+                                    "translation": "gimnastyka",
+                                    "word": "gymnastic"
+                                },
+                                {
+                                    "word": "hockey",
+                                    "translation": "hokej"
+                                },
+                                {
+                                    "word": "volleyball",
+                                    "translation": "siatkówka"
+                                },
+                                {
+                                    "translation": "jogging",
+                                    "word": "jogging"
+                                },
+                                {
+                                    "word": "motor racing",
+                                    "translation": "wyścigi samochodowe"
+                                },
+                                {
+                                    "translation": "skok na bungee",
+                                    "word": "bungee jumping"
+                                },
+                                {
+                                    "word": "climbing",
+                                    "translation": "wspinaczka"
+                                },
+                                {
+                                    "word": "bow",
+                                    "translation": "łuk"
+                                },
+                                {
+                                    "word": "runner",
+                                    "translation": "biegacz"
+                                },
+                                {
+                                    "translation": "kajakarz",
+                                    "word": "canoeist"
+                                },
+                                {
+                                    "translation": "wioślarstwo",
+                                    "word": "rowing"
+                                },
+                                {
+                                    "word": "canoeist",
+                                    "translation": "kajakarz"
+                                },
+                                {
+                                    "word": "martial arts",
+                                    "translation": "sztuki walki"
+                                },
+                                {
+                                    "word": "boots",
+                                    "translation": "buty"
+                                },
+                                {
+                                    "word": "cap",
+                                    "translation": "czapka"
+                                },
+                                {
+                                    "word": "helmet",
+                                    "translation": "kask"
+                                },
+                                {
+                                    "translation": "tor",
+                                    "word": "track"
+                                },
+                                {
+                                    "translation": "dres",
+                                    "word": "tracksuit"
+                                },
+                                {
+                                    "translation": "bokser",
+                                    "word": "boxer"
+                                },
+                                {
+                                    "translation": "windsurfing",
+                                    "word": "windsurfing"
+                                },
+                                {
+                                    "translation": "badminton",
+                                    "word": "badminton"
+                                },
+                                {
+                                    "word": "tennis",
+                                    "translation": "tenis"
+                                },
+                                {
+                                    "translation": "wykonywanie skoków spadochronowych (z obiektów takich jak mosty, maszty, wieżowce)",
+                                    "word": "base jumping"
+                                }
+                            ],
+                            "points": 577,
+                            "level": 10
+                        },
+                        "part_04": {
+                            "points": 1,
+                            "level": 1
+                        },
+                        "part_03": {
+                            "points": 85,
+                            "level": 4
+                        }
+                    }
+                },
+                "unit_11": {
+                    "parts": {
+                        "part_05": {
+                            "level": 1,
+                            "points": 0
+                        },
+                        "part_04": {
+                            "level": 1,
+                            "points": 0
+                        },
+                        "part_07": {
+                            "level": 0,
+                            "points": 0
+                        },
+                        "part_08": {
+                            "points": 1,
+                            "goodAnswers": [],
+                            "level": 0
+                        },
+                        "test": {
+                            "goodAnswers": [
+                                {
+                                    "word": "fatal disease",
+                                    "translation": "śmiertelna choroba"
+                                },
+                                {
+                                    "translation": "być uzależnionym od",
+                                    "word": "be addicted to"
+                                },
+                                {
+                                    "translation": "śmiertelna choroba",
+                                    "word": "fatal disease"
+                                }
+                            ],
+                            "points": 4,
+                            "level": 1
+                        },
+                        "part_02": {
+                            "goodAnswers": [],
+                            "level": 4,
+                            "points": 75,
+                            "complete": true
+                        },
+                        "part_03": {
+                            "points": 1,
+                            "level": 1
+                        },
+                        "part_01": {
+                            "points": 22,
+                            "level": 2
+                        },
+                        "part_06": {
+                            "points": 0,
+                            "level": 1
+                        }
+                    }
+                },
+                "unit_02": {
+                    "parts": {
+                        "part_05": {
+                            "goodAnswers": [
+                                "snug",
+                                "stumble upon",
+                                "get into",
+                                "sulk",
+                                "stream in",
+                                "stare at",
+                                "beyond",
+                                "affordable",
+                                "complain",
+                                "nearby",
+                                "sigh",
+                                "kick up a fuss",
+                                "miss",
+                                "bump into"
+                            ],
+                            "level": 3,
+                            "complete": true,
+                            "points": 56
+                        },
+                        "part_03": {
+                            "points": 0,
+                            "level": 1
+                        },
+                        "test": {
+                            "goodAnswers": [
+                                "kitchen appliances"
+                            ],
+                            "level": 1,
+                            "points": 2
+                        },
+                        "part_02": {
+                            "goodAnswers": [
+                                {
+                                    "translation": "wyspa kuchenna",
+                                    "word": "island"
+                                },
+                                {
+                                    "word": "mirror",
+                                    "translation": "lustro"
+                                },
+                                {
+                                    "translation": "umeblowany",
+                                    "word": "furnished"
+                                },
+                                {
+                                    "word": "fitted carpet",
+                                    "translation": "wykładzina dywanowa"
+                                },
+                                {
+                                    "translation": "salon",
+                                    "word": "living room"
+                                },
+                                {
+                                    "translation": "rolety",
+                                    "word": "blinds"
+                                },
+                                {
+                                    "word": "mantelpiece",
+                                    "translation": "półka nad kominkiem"
+                                },
+                                {
+                                    "translation": "duszny",
+                                    "word": "stuffy"
+                                },
+                                {
+                                    "translation": "drzwi frontowe",
+                                    "word": "front door"
+                                },
+                                {
+                                    "word": "washing machine",
+                                    "translation": "pralka"
+                                },
+                                {
+                                    "word": "oak",
+                                    "translation": "dębowy"
+                                }
+                            ],
+                            "level": 2,
+                            "points": 27
+                        },
+                        "part_01": {
+                            "goodAnswers": [
+                                {
+                                    "word": "Old Town",
+                                    "translation": "stare miasto"
+                                },
+                                {
+                                    "word": "family home",
+                                    "translation": "dom rodzinny"
+                                },
+                                {
+                                    "word": "affortable housing",
+                                    "translation": "domy w przystępnej cenie"
+                                },
+                                {
+                                    "word": "tower block",
+                                    "translation": "wieżowiec"
+                                },
+                                {
+                                    "word": "affortable housing",
+                                    "translation": "domy w przystępnej cenie"
+                                },
+                                {
+                                    "translation": "na skraju (czegoś)",
+                                    "word": "on the edge of"
+                                },
+                                {
+                                    "translation": "na skraju (czegoś)",
+                                    "word": "on the edge of"
+                                },
+                                {
+                                    "translation": "na skraju (czegoś)",
+                                    "word": "on the edge of"
+                                },
+                                {
+                                    "translation": "na skraju (czegoś)",
+                                    "word": "on the edge of"
+                                },
+                                {
+                                    "word": "on the edge of",
+                                    "translation": "na skraju (czegoś)"
+                                },
+                                {
+                                    "translation": "na skraju (czegoś)",
+                                    "word": "on the edge of"
+                                },
+                                {
+                                    "word": "on the edge of",
+                                    "translation": "na skraju (czegoś)"
+                                },
+                                {
+                                    "word": "lacated",
+                                    "translation": "położony"
+                                },
+                                {
+                                    "translation": "dom spokojnej starości",
+                                    "word": "nursing home"
+                                },
+                                {
+                                    "word": "mobile home",
+                                    "translation": "przyczepa mieszkalna"
+                                },
+                                {
+                                    "translation": "dom spokojnej starości",
+                                    "word": "nursing home"
+                                },
+                                {
+                                    "word": "amenities",
+                                    "translation": "udogodnienia"
+                                },
+                                {
+                                    "word": "nursing home",
+                                    "translation": "dom spokojnej starości"
+                                },
+                                {
+                                    "translation": "udogodnienia",
+                                    "word": "amenities"
+                                },
+                                {
+                                    "translation": "na wsi",
+                                    "word": "in the countryside"
+                                },
+                                {
+                                    "word": "commute",
+                                    "translation": "dojeżdżać (do pracy lub szkoły)"
+                                },
+                                {
+                                    "word": "retirement flat",
+                                    "translation": "mieszkanie dla emeryta"
+                                },
+                                {
+                                    "word": "dilapidated",
+                                    "translation": "zniszczony"
+                                },
+                                {
+                                    "word": "retirement flat",
+                                    "translation": "mieszkanie dla emeryta"
+                                },
+                                {
+                                    "translation": "zniszczony",
+                                    "word": "dilapidated"
+                                },
+                                {
+                                    "word": "retirement flat",
+                                    "translation": "mieszkanie dla emeryta"
+                                },
+                                {
+                                    "translation": "w budowie",
+                                    "word": "under construction"
+                                },
+                                {
+                                    "translation": "na przedmieściach",
+                                    "word": "in the suburbs"
+                                },
+                                {
+                                    "word": "bid",
+                                    "translation": "oferta w licytacji"
+                                },
+                                {
+                                    "word": "in the suburbs",
+                                    "translation": "na przedmieściach"
+                                },
+                                {
+                                    "word": "bid",
+                                    "translation": "oferta w licytacji"
+                                },
+                                {
+                                    "word": "in need of renovation",
+                                    "translation": "do remontu"
+                                },
+                                {
+                                    "translation": "pałac",
+                                    "word": "mansion"
+                                },
+                                {
+                                    "word": "in need of renovation",
+                                    "translation": "do remontu"
+                                },
+                                {
+                                    "word": "mansion",
+                                    "translation": "pałac"
+                                },
+                                {
+                                    "word": "cottage",
+                                    "translation": "domek wiejski"
+                                },
+                                {
+                                    "word": "public transport",
+                                    "translation": "transport publiczny"
+                                },
+                                {
+                                    "translation": "domek wiejski",
+                                    "word": "cottage"
+                                },
+                                {
+                                    "translation": "wioska",
+                                    "word": "village"
+                                },
+                                {
+                                    "translation": "domek wiejski",
+                                    "word": "cottage"
+                                },
+                                {
+                                    "translation": "wioska",
+                                    "word": "village"
+                                },
+                                {
+                                    "word": "auction",
+                                    "translation": "aukcja"
+                                },
+                                {
+                                    "word": "in the middle of nowhere",
+                                    "translation": "na odludziu"
+                                },
+                                {
+                                    "translation": "na głębokiej wsi",
+                                    "word": "in the heart of the countrysite"
+                                },
+                                {
+                                    "translation": "na odludziu",
+                                    "word": "in the middle of nowhere"
+                                },
+                                {
+                                    "translation": "na głębokiej wsi",
+                                    "word": "in the heart of the countrysite"
+                                },
+                                {
+                                    "translation": "na odludziu",
+                                    "word": "in the middle of nowhere"
+                                },
+                                {
+                                    "word": "in the heart of the countrysite",
+                                    "translation": "na głębokiej wsi"
+                                },
+                                {
+                                    "translation": "na uboczu",
+                                    "word": "off the beaten track"
+                                },
+                                {
+                                    "word": "in the heart of the countrysite",
+                                    "translation": "na głębokiej wsi"
+                                },
+                                {
+                                    "translation": "willa",
+                                    "word": "villa"
+                                },
+                                {
+                                    "translation": "mieszkanie",
+                                    "word": "flat"
+                                },
+                                {
+                                    "translation": "miasto",
+                                    "word": "city"
+                                },
+                                {
+                                    "word": "all mod cons",
+                                    "translation": "wszystkie wygody"
+                                },
+                                {
+                                    "translation": "wychodzić na",
+                                    "word": "overlook"
+                                },
+                                {
+                                    "translation": "zniszczony",
+                                    "word": "dilapidated"
+                                },
+                                {
+                                    "translation": "osiedle mieszkaniowe",
+                                    "word": "housing estate"
+                                },
+                                {
+                                    "translation": "mieszkaniec",
+                                    "word": "inhabitant"
+                                },
+                                {
+                                    "translation": "dzielnica",
+                                    "word": "district"
+                                },
+                                {
+                                    "translation": "w centrum",
+                                    "word": "in a centre"
+                                },
+                                {
+                                    "translation": "kapusta",
+                                    "word": "cabbage"
+                                },
+                                {
+                                    "word": "dried",
+                                    "translation": "suszony"
+                                },
+                                {
+                                    "word": "cabbage",
+                                    "translation": "kapusta"
+                                },
+                                {
+                                    "word": "dried",
+                                    "translation": "suszony"
+                                },
+                                {
+                                    "translation": "ciasto",
+                                    "word": "cake"
+                                },
+                                {
+                                    "translation": "ośmiornica",
+                                    "word": "octopus"
+                                },
+                                {
+                                    "translation": "słoik miodu",
+                                    "word": "jar of honey"
+                                },
+                                {
+                                    "word": "octopus",
+                                    "translation": "ośmiornica"
+                                }
+                            ],
+                            "level": 4,
+                            "languageOrder": {
+                                "translation": "translation",
+                                "word": "word"
+                            },
+                            "points": 68
+                        },
+                        "part_04": {
+                            "goodAnswers": [
+                                "per month",
+                                "charge",
+                                "move in",
+                                {
+                                    "word": "for sale",
+                                    "translation": "na sprzedaż"
+                                },
+                                {
+                                    "word": "to let",
+                                    "translation": "do wynajęcia"
+                                },
+                                {
+                                    "translation": "wypowiedzenie",
+                                    "word": "notice"
+                                },
+                                {
+                                    "translation": "do wynajęcia",
+                                    "word": "to let"
+                                },
+                                {
+                                    "translation": "wypowiedzenie",
+                                    "word": "notice"
+                                },
+                                {
+                                    "word": "per week",
+                                    "translation": "tygodniowo"
+                                },
+                                {
+                                    "translation": "współlokator",
+                                    "word": "flatmate"
+                                },
+                                {
+                                    "translation": "współlokator",
+                                    "word": "flatmate"
+                                },
+                                {
+                                    "translation": "współlokator",
+                                    "word": "flatmate"
+                                },
+                                {
+                                    "word": "bill",
+                                    "translation": "rachunek"
+                                },
+                                {
+                                    "translation": "mieszkać samemu",
+                                    "word": "live on one's own"
+                                },
+                                {
+                                    "word": "bill",
+                                    "translation": "rachunek"
+                                },
+                                {
+                                    "word": "live on one's own",
+                                    "translation": "mieszkać samemu"
+                                },
+                                {
+                                    "word": "bill",
+                                    "translation": "rachunek"
+                                },
+                                {
+                                    "word": "live on one's own",
+                                    "translation": "mieszkać samemu"
+                                },
+                                {
+                                    "translation": "rachunek",
+                                    "word": "bill"
+                                },
+                                {
+                                    "word": "live on one's own",
+                                    "translation": "mieszkać samemu"
+                                },
+                                {
+                                    "translation": "ogłoszenie",
+                                    "word": "ad"
+                                },
+                                {
+                                    "word": "live on one's own",
+                                    "translation": "mieszkać samemu"
+                                },
+                                {
+                                    "word": "move out",
+                                    "translation": "wyprowadzic się"
+                                },
+                                {
+                                    "word": "live on one's own",
+                                    "translation": "mieszkać samemu"
+                                },
+                                {
+                                    "word": "move out",
+                                    "translation": "wyprowadzic się"
+                                },
+                                {
+                                    "translation": "mieszkać samemu",
+                                    "word": "live on one's own"
+                                },
+                                {
+                                    "translation": "wyprowadzic się",
+                                    "word": "move out"
+                                },
+                                {
+                                    "translation": "mieszkać samemu",
+                                    "word": "live on one's own"
+                                },
+                                {
+                                    "translation": "płatność",
+                                    "word": "payment"
+                                },
+                                {
+                                    "translation": "raty",
+                                    "word": "instalments"
+                                }
+                            ],
+                            "points": 5,
+                            "level": 2
+                        }
+                    }
+                },
+                "unit_07": {
+                    "parts": {
+                        "part_07": {
+                            "points": 0,
+                            "level": 1
+                        },
+                        "part_06": {
+                            "level": 1,
+                            "points": 0
+                        },
+                        "part_04": {
+                            "level": 1,
+                            "points": 0
+                        },
+                        "part_08": {
+                            "points": 0,
+                            "level": 1
+                        },
+                        "part_01": {
+                            "level": 1,
+                            "points": 0
+                        },
+                        "part_09": {
+                            "level": 1,
+                            "points": 0
+                        },
+                        "part_03": {
+                            "level": 1,
+                            "points": 0
+                        },
+                        "part_10": {
+                            "points": 0,
+                            "level": 1
+                        },
+                        "part_05": {
+                            "points": 0,
+                            "level": 1
+                        },
+                        "part_02": {
+                            "points": 0,
+                            "level": 1
+                        },
+                        "test": {
+                            "level": 1,
+                            "points": 0
+                        }
+                    }
+                },
+                "unit_13": {
+                    "parts": {
+                        "part_07": {
+                            "goodAnswers": [
+                                {
+                                    "translation": "badania kosmosu",
+                                    "word": "space exploration"
+                                }
+                            ],
+                            "complete": 4,
+                            "languageOrder": {
+                                "translation": "translation",
+                                "word": "word"
+                            },
+                            "level": 7,
+                            "points": 273
+                        },
+                        "part_05": {
+                            "level": 1,
+                            "points": 0
+                        },
+                        "part_02": {
+                            "points": 2,
+                            "goodAnswers": [
+                                "swan",
+                                "polar beer",
+                                "parrot",
+                                "tidy up the garden",
+                                "amphibian"
+                            ],
+                            "level": 1
+                        },
+                        "part_04": {
+                            "points": 139,
+                            "complete": 2,
+                            "languageOrder": {
+                                "word": "word",
+                                "translation": "translation"
+                            },
+                            "goodAnswers": [],
+                            "level": 5
+                        },
+                        "part_06": {
+                            "points": 6,
+                            "goodAnswers": [
+                                "ash cloud",
+                                "famine",
+                                "landslide",
+                                "volcanic eruption",
+                                "forest fire",
+                                "blizzard",
+                                "drought",
+                                "hurricane"
+                            ],
+                            "level": 2
+                        },
+                        "part_01": {
+                            "goodAnswers": [
+                                "heavy rain",
+                                "lightning",
+                                "heavy rain",
+                                "shower",
+                                "frost",
+                                "misty",
+                                "humid",
+                                "drizzle",
+                                "rise",
+                                "reach",
+                                "black ice",
+                                "climate",
+                                "cloudy",
+                                "showery",
+                                "frosty",
+                                "degrees (Celsius/centigrade)",
+                                "fog",
+                                "mist",
+                                "autumn",
+                                "freezing",
+                                "wind",
+                                "extreme weather conditions",
+                                "spring",
+                                "overcast sky",
+                                "foggy",
+                                "torrential rain",
+                                "mild",
+                                "icy",
+                                "light breeze",
+                                "thunder",
+                                "snowy",
+                                "rainy",
+                                "thick fog",
+                                "downpour",
+                                {
+                                    "translation": "prognoza",
+                                    "word": "forecast"
+                                },
+                                {
+                                    "translation": "wichura",
+                                    "word": "gale force wind"
+                                },
+                                {
+                                    "translation": "prognoza",
+                                    "word": "forecast"
+                                },
+                                {
+                                    "translation": "burzowy",
+                                    "word": "thundery"
+                                },
+                                {
+                                    "translation": "spaść do",
+                                    "word": "drop to"
+                                }
+                            ],
+                            "level": 2,
+                            "points": 24
+                        },
+                        "part_03": {
+                            "level": 1,
+                            "goodAnswers": [
+                                "river",
+                                "stream",
+                                "riverbank",
+                                "coral reef",
+                                "sea",
+                                "canyon",
+                                "valley"
+                            ],
+                            "points": 7
+                        },
+                        "test": {
+                            "points": 0,
+                            "goodAnswers": [],
+                            "level": 1
+                        },
+                        "part_08": {
+                            "level": 1,
+                            "points": 0
+                        }
+                    }
+                },
+                "unit_05": {
+                    "parts": {
+                        "part_07": {
+                            "goodAnswers": [],
+                            "points": 5,
+                            "level": 1
+                        },
+                        "part_01": {
+                            "level": 5,
+                            "goodAnswers": [
+                                "retirement",
+                                "middle-age",
+                                {
+                                    "translation": "emeryt",
+                                    "word": "pensioner"
+                                },
+                                {
+                                    "translation": "nastolatek",
+                                    "word": "teenager"
+                                },
+                                {
+                                    "word": "pensioner",
+                                    "translation": "emeryt"
+                                },
+                                {
+                                    "word": "adult",
+                                    "translation": "dorosły"
+                                },
+                                {
+                                    "word": "adult",
+                                    "translation": "dorosły"
+                                },
+                                {
+                                    "translation": "w wieku niespełna trzydziestu lat",
+                                    "word": "in your late twenties"
+                                },
+                                {
+                                    "word": "generation",
+                                    "translation": "pokolenie"
+                                },
+                                {
+                                    "translation": "w wieku niespełna trzydziestu lat",
+                                    "word": "in your late twenties"
+                                },
+                                {
+                                    "word": "generation",
+                                    "translation": "pokolenie"
+                                },
+                                {
+                                    "translation": "w wieku niespełna trzydziestu lat",
+                                    "word": "in your late twenties"
+                                },
+                                {
+                                    "translation": "w średnim wieku",
+                                    "word": "middle-aged"
+                                },
+                                {
+                                    "word": "kid",
+                                    "translation": "dziecko"
+                                },
+                                {
+                                    "word": "middle-aged",
+                                    "translation": "w średnim wieku"
+                                },
+                                {
+                                    "word": "birth",
+                                    "translation": "narodziny"
+                                },
+                                {
+                                    "word": "go to school (uniwersity)",
+                                    "translation": "pójść do szkoły"
+                                },
+                                {
+                                    "word": "birth",
+                                    "translation": "narodziny"
+                                },
+                                {
+                                    "word": "go to school (uniwersity)",
+                                    "translation": "pójść do szkoły"
+                                },
+                                {
+                                    "word": "youth",
+                                    "translation": "młodość"
+                                },
+                                {
+                                    "translation": "pójść do szkoły",
+                                    "word": "go to school (uniwersity)"
+                                },
+                                {
+                                    "word": "youth",
+                                    "translation": "młodość"
+                                },
+                                {
+                                    "word": "childhood",
+                                    "translation": "dzieciństwo"
+                                },
+                                {
+                                    "word": "grown-up",
+                                    "translation": "dorosły"
+                                },
+                                {
+                                    "word": "childhood",
+                                    "translation": "dzieciństwo"
+                                },
+                                {
+                                    "word": "grown-up",
+                                    "translation": "dorosły"
+                                },
+                                {
+                                    "translation": "dzieciństwo",
+                                    "word": "childhood"
+                                },
+                                {
+                                    "translation": "dorosły",
+                                    "word": "grown-up"
+                                },
+                                {
+                                    "word": "old-age",
+                                    "translation": "starość"
+                                },
+                                {
+                                    "word": "grown-up",
+                                    "translation": "dorosły"
+                                },
+                                {
+                                    "translation": "starość",
+                                    "word": "old-age"
+                                },
+                                {
+                                    "word": "grown-up",
+                                    "translation": "dorosły"
+                                },
+                                {
+                                    "word": "turn forty",
+                                    "translation": "skończyć czterdzieści lat"
+                                },
+                                {
+                                    "word": "adulthood",
+                                    "translation": "wiek dorosły"
+                                },
+                                {
+                                    "translation": "skończyć czterdzieści lat",
+                                    "word": "turn forty"
+                                },
+                                {
+                                    "translation": "wiek dorosły",
+                                    "word": "adulthood"
+                                },
+                                {
+                                    "translation": "zaręczyny",
+                                    "word": "engagement"
+                                },
+                                {
+                                    "translation": "młody dorosły",
+                                    "word": "young adult"
+                                },
+                                {
+                                    "word": "engagement",
+                                    "translation": "zaręczyny"
+                                },
+                                {
+                                    "word": "young adult",
+                                    "translation": "młody dorosły"
+                                },
+                                {
+                                    "translation": "dorastać",
+                                    "word": "grow up"
+                                },
+                                {
+                                    "word": "elderly",
+                                    "translation": "starszy"
+                                },
+                                {
+                                    "word": "grow up",
+                                    "translation": "dorastać"
+                                },
+                                {
+                                    "word": "elderly",
+                                    "translation": "starszy"
+                                },
+                                {
+                                    "word": "toddler",
+                                    "translation": "małe dziecko (uczące się chodzić)"
+                                },
+                                {
+                                    "word": "have a baby",
+                                    "translation": "mieć dziecko"
+                                },
+                                {
+                                    "translation": "małe dziecko (uczące się chodzić)",
+                                    "word": "toddler"
+                                },
+                                {
+                                    "word": "twenty-five-ish",
+                                    "translation": "około dwudziestu pięciu lat"
+                                },
+                                {
+                                    "translation": "małe dziecko (uczące się chodzić)",
+                                    "word": "toddler"
+                                },
+                                {
+                                    "word": "teenager",
+                                    "translation": "nastolatek"
+                                },
+                                {
+                                    "translation": "przejść na emeryturę",
+                                    "word": "retire"
+                                },
+                                {
+                                    "translation": "śmierć",
+                                    "word": "death"
+                                },
+                                {
+                                    "word": "in your early twenties",
+                                    "translation": "w wieku dwudziestu kilku lat"
+                                },
+                                {
+                                    "translation": "wyprowadzić się z domu",
+                                    "word": "leave home"
+                                },
+                                {
+                                    "translation": "dorastający (chłopak lub dziewczyna)",
+                                    "word": "adolescent"
+                                },
+                                {
+                                    "translation": "starzeć się",
+                                    "word": "be getting on"
+                                },
+                                {
+                                    "translation": "dorastający (chłopak lub dziewczyna)",
+                                    "word": "adolescent"
+                                },
+                                {
+                                    "word": "be getting on",
+                                    "translation": "starzeć się"
+                                },
+                                {
+                                    "word": "in your mid twenties",
+                                    "translation": "w wieku dwudziestu pięciu lat (około)"
+                                },
+                                {
+                                    "word": "be born",
+                                    "translation": "urodzić się"
+                                },
+                                {
+                                    "word": "get engaged",
+                                    "translation": "zaręczyć się"
+                                },
+                                {
+                                    "word": "start a job",
+                                    "translation": "zacząć pracę"
+                                },
+                                {
+                                    "word": "bring up",
+                                    "translation": "wychować"
+                                },
+                                {
+                                    "word": "mature (immature)",
+                                    "translation": "dojrzały (niedojrzały)"
+                                },
+                                {
+                                    "word": "bring up",
+                                    "translation": "wychować"
+                                },
+                                {
+                                    "word": "bring up",
+                                    "translation": "wychować"
+                                },
+                                {
+                                    "word": "look your age",
+                                    "translation": "wyglądać na swój wiek"
+                                },
+                                {
+                                    "translation": "wychować",
+                                    "word": "bring up"
+                                },
+                                {
+                                    "translation": "małe dziecko (uczące się chodzić)",
+                                    "word": "toddler"
+                                }
+                            ],
+                            "points": 126
+                        },
+                        "test": {
+                            "goodAnswers": [],
+                            "level": 1,
+                            "points": 0
+                        },
+                        "part_06": {
+                            "level": 1,
+                            "points": 0,
+                            "goodAnswers": []
+                        },
+                        "part_05": {
+                            "points": 8,
+                            "goodAnswers": [
+                                {
+                                    "translation": "zwyczaj",
+                                    "word": "custom"
+                                },
+                                {
+                                    "word": "church",
+                                    "translation": "kościół"
+                                },
+                                {
+                                    "word": "service",
+                                    "translation": "nabożeństwo,ceremonia"
+                                },
+                                {
+                                    "translation": "opakować prezent",
+                                    "word": "wrap a present"
+                                },
+                                {
+                                    "word": "service",
+                                    "translation": "nabożeństwo,ceremonia"
+                                },
+                                {
+                                    "word": "anniversary",
+                                    "translation": "rocznica"
+                                }
+                            ],
+                            "level": 1
+                        },
+                        "part_04": {
+                            "points": 0,
+                            "level": 1
+                        },
+                        "part_03": {
+                            "level": 1,
+                            "points": 0
+                        },
+                        "part_02": {
+                            "complete": 2,
+                            "points": 288,
+                            "languageOrder": {
+                                "word": "translation",
+                                "translation": "word"
+                            },
+                            "goodAnswers": [
+                                {
+                                    "word": "grandparents",
+                                    "translation": "dziadkowie"
+                                },
+                                {
+                                    "translation": "pasierb",
+                                    "word": "stepson"
+                                },
+                                {
+                                    "translation": "dziadkowie",
+                                    "word": "grandparents"
+                                },
+                                {
+                                    "word": "stepson",
+                                    "translation": "pasierb"
+                                },
+                                {
+                                    "translation": "wnuczka",
+                                    "word": "granddaughter"
+                                },
+                                {
+                                    "word": "partner",
+                                    "translation": "partner"
+                                },
+                                {
+                                    "word": "make friends with",
+                                    "translation": "zaprzyjaźnić się z"
+                                },
+                                {
+                                    "word": "grandmother",
+                                    "translation": "babcia"
+                                },
+                                {
+                                    "translation": "siostra przyrodnia",
+                                    "word": "half sister"
+                                },
+                                {
+                                    "translation": "bliski przyjaciel",
+                                    "word": "close friend"
+                                },
+                                {
+                                    "translation": "rozwiedziony",
+                                    "word": "divorces"
+                                },
+                                {
+                                    "translation": "mieć dobre stosunki z",
+                                    "word": "get on well with"
+                                },
+                                {
+                                    "word": "brother-in-law",
+                                    "translation": "szwagier"
+                                },
+                                {
+                                    "translation": "przyjąć dziecko do rodziny zastępczej",
+                                    "word": "foster a child"
+                                },
+                                {
+                                    "translation": "bardzo różnić się od siebie",
+                                    "word": "be complete opposites"
+                                },
+                                {
+                                    "translation": "przyjąć dziecko do rodziny zastępczej",
+                                    "word": "foster a child"
+                                },
+                                {
+                                    "translation": "narzeczona",
+                                    "word": "fiancée"
+                                },
+                                {
+                                    "translation": "jedynak",
+                                    "word": "only child"
+                                },
+                                {
+                                    "translation": "pokolenie",
+                                    "word": "generation"
+                                },
+                                {
+                                    "translation": "być podobnym do kogoś",
+                                    "word": "take after"
+                                },
+                                {
+                                    "translation": "ojczym",
+                                    "word": "stepfather"
+                                },
+                                {
+                                    "translation": "dziewczyna (sympatia)",
+                                    "word": "girlfriend"
+                                },
+                                {
+                                    "translation": "samotny rodzic",
+                                    "word": "single parent"
+                                }
+                            ],
+                            "level": 8
+                        }
+                    }
+                },
+                "unit_09": {
+                    "parts": {
+                        "part_01": {
+                            "points": 105,
+                            "goodAnswers": [
+                                {
+                                    "translation": "opera",
+                                    "word": "opera"
+                                },
+                                {
+                                    "word": "photography",
+                                    "translation": "fotografia"
+                                },
+                                {
+                                    "translation": "film",
+                                    "word": "film"
+                                },
+                                {
+                                    "translation": "lekki",
+                                    "word": "light"
+                                },
+                                {
+                                    "translation": "poważny",
+                                    "word": "serious"
+                                },
+                                {
+                                    "translation": "romantyczny",
+                                    "word": "romantic"
+                                },
+                                {
+                                    "word": "architecture",
+                                    "translation": "architektura"
+                                },
+                                {
+                                    "translation": "poezja",
+                                    "word": "poetry"
+                                },
+                                {
+                                    "translation": "wspaniały",
+                                    "word": "brilliant"
+                                },
+                                {
+                                    "word": "poetry",
+                                    "translation": "poezja"
+                                },
+                                {
+                                    "translation": "na żywo",
+                                    "word": "live"
+                                },
+                                {
+                                    "translation": "nowy",
+                                    "word": "fresh"
+                                },
+                                {
+                                    "translation": "literatura",
+                                    "word": "literature"
+                                },
+                                {
+                                    "translation": "łatwy do przeczytania",
+                                    "word": "easy-to-read"
+                                },
+                                {
+                                    "word": "traditional",
+                                    "translation": "tradycyjny"
+                                },
+                                {
+                                    "word": "easy-to-read",
+                                    "translation": "łatwy do przeczytania"
+                                },
+                                {
+                                    "translation": "klasyczny",
+                                    "word": "classical"
+                                },
+                                {
+                                    "translation": "sztuka dramatyczna",
+                                    "word": "drama"
+                                },
+                                {
+                                    "translation": "balet",
+                                    "word": "ballet"
+                                },
+                                {
+                                    "word": "graffiti",
+                                    "translation": "graffiti"
+                                },
+                                {
+                                    "word": "theatre",
+                                    "translation": "teatr"
+                                },
+                                {
+                                    "word": "predictable",
+                                    "translation": "przewidywalny"
+                                },
+                                {
+                                    "translation": "taniec",
+                                    "word": "dance"
+                                }
+                            ],
+                            "level": 5
+                        },
+                        "part_04": {
+                            "level": 5,
+                            "points": 121
+                        },
+                        "part_05": {
+                            "level": 1,
+                            "points": 0
+                        },
+                        "part_02": {
+                            "points": 60,
+                            "level": 4
+                        },
+                        "part_03": {
+                            "level": 4,
+                            "points": 60
+                        },
+                        "test": {
+                            "level": 4,
+                            "points": 62,
+                            "goodAnswers": [
+                                "contestant",
+                                "autograph",
+                                "cartoonist",
+                                "member"
+                            ]
+                        }
+                    }
+                },
+                "unit_14": {
+                    "parts": {
+                        "part_01": {
+                            "goodAnswers": [
+                                {
+                                    "word": "fight for an election",
+                                    "translation": "startować w wyborach"
+                                },
+                                {
+                                    "translation": "członek partii",
+                                    "word": "party member"
+                                },
+                                {
+                                    "word": "republic",
+                                    "translation": "republika"
+                                },
+                                {
+                                    "word": "parliament",
+                                    "translation": "parlament"
+                                },
+                                {
+                                    "word": "the House of Commons",
+                                    "translation": "Izba Gmin"
+                                },
+                                {
+                                    "translation": "partia centrowa",
+                                    "word": "centre party"
+                                },
+                                {
+                                    "word": "the House of Commons",
+                                    "translation": "Izba Gmin"
+                                },
+                                {
+                                    "translation": "monarchia",
+                                    "word": "monarchy"
+                                },
+                                {
+                                    "translation": "dyskutować o problemie",
+                                    "word": "debate an issue"
+                                },
+                                {
+                                    "translation": "królowa",
+                                    "word": "queen"
+                                },
+                                {
+                                    "translation": "państwo",
+                                    "word": "state"
+                                },
+                                {
+                                    "word": "opposition",
+                                    "translation": "opozycja"
+                                },
+                                {
+                                    "word": "cabinet",
+                                    "translation": "gabinet"
+                                },
+                                {
+                                    "word": "opposition",
+                                    "translation": "opozycja"
+                                },
+                                {
+                                    "translation": "wywołać skandal",
+                                    "word": "cause a scandal"
+                                },
+                                {
+                                    "word": "authorities",
+                                    "translation": "władze"
+                                },
+                                {
+                                    "translation": "wygrać wybory",
+                                    "word": "win an election"
+                                },
+                                {
+                                    "word": "democracy",
+                                    "translation": "demokracja"
+                                },
+                                {
+                                    "translation": "wybory powszechne",
+                                    "word": "general election"
+                                },
+                                {
+                                    "translation": "ambasada",
+                                    "word": "embassy"
+                                },
+                                {
+                                    "word": "general election",
+                                    "translation": "wybory powszechne"
+                                },
+                                {
+                                    "word": "embassy",
+                                    "translation": "ambasada"
+                                },
+                                {
+                                    "word": "politician",
+                                    "translation": "polityk"
+                                },
+                                {
+                                    "word": "constitution",
+                                    "translation": "konstytucja"
+                                },
+                                {
+                                    "translation": "uchwalić ustawę",
+                                    "word": "pass a law"
+                                },
+                                {
+                                    "word": "independence",
+                                    "translation": "niepodległość"
+                                },
+                                {
+                                    "translation": "przeprowadzić reformy",
+                                    "word": "carry out reforms"
+                                },
+                                {
+                                    "translation": "lewicowy",
+                                    "word": "left-wing"
+                                },
+                                {
+                                    "translation": "konserwatywny",
+                                    "word": "conservative"
+                                },
+                                {
+                                    "translation": "wicepremier",
+                                    "word": "deputy prime minister"
+                                },
+                                {
+                                    "translation": "mieć złą prasę",
+                                    "word": "get bad press"
+                                },
+                                {
+                                    "word": "eligible to vote",
+                                    "translation": "uprawniony do głosowania"
+                                },
+                                {
+                                    "translation": "odbyć kadencję",
+                                    "word": "serve a term"
+                                },
+                                {
+                                    "translation": "okręg wyborczy",
+                                    "word": "constituency"
+                                },
+                                {
+                                    "word": "kingdom",
+                                    "translation": "królestwo"
+                                },
+                                {
+                                    "word": "constituency",
+                                    "translation": "okręg wyborczy"
+                                },
+                                {
+                                    "word": "Chancellor of the Exchequer",
+                                    "translation": "minister finansów Wielkiej Brytanii"
+                                },
+                                {
+                                    "word": "term",
+                                    "translation": "kadencja"
+                                },
+                                {
+                                    "word": "Chancellor of the Exchequer",
+                                    "translation": "minister finansów Wielkiej Brytanii"
+                                },
+                                {
+                                    "word": "policy",
+                                    "translation": "polityka"
+                                },
+                                {
+                                    "translation": "król",
+                                    "word": "king"
+                                },
+                                {
+                                    "translation": "socjalistyczny",
+                                    "word": "socialist"
+                                },
+                                {
+                                    "word": "president",
+                                    "translation": "prezydent"
+                                },
+                                {
+                                    "translation": "premier",
+                                    "word": "prime minister"
+                                },
+                                {
+                                    "word": "head of state",
+                                    "translation": "głowa państwa"
+                                },
+                                {
+                                    "translation": "prawicowy",
+                                    "word": "right-wing"
+                                },
+                                {
+                                    "word": "civil servant",
+                                    "translation": "urzędnik państwowy"
+                                },
+                                {
+                                    "translation": "ustawodawstwo",
+                                    "word": "legislation"
+                                },
+                                {
+                                    "translation": "narodowy",
+                                    "word": "national"
+                                },
+                                {
+                                    "word": "legislation",
+                                    "translation": "ustawodawstwo"
+                                },
+                                {
+                                    "word": "anthem",
+                                    "translation": "hymn"
+                                },
+                                {
+                                    "word": "the House of Representatives",
+                                    "translation": "Izba Reprezentantów"
+                                },
+                                {
+                                    "word": "anthem",
+                                    "translation": "hymn"
+                                },
+                                {
+                                    "translation": "demokratyczny",
+                                    "word": "democratic"
+                                },
+                                {
+                                    "word": "form a coalition",
+                                    "translation": "stworzyć koalicję"
+                                },
+                                {
+                                    "translation": "niepodległy",
+                                    "word": "independent"
+                                },
+                                {
+                                    "translation": "poseł",
+                                    "word": "Member of Parliament"
+                                },
+                                {
+                                    "translation": "stolica",
+                                    "word": "capital"
+                                },
+                                {
+                                    "word": "senate",
+                                    "translation": "senat"
+                                },
+                                {
+                                    "translation": "rodzina królewska",
+                                    "word": "royal family"
+                                },
+                                {
+                                    "word": "mayor",
+                                    "translation": "burmistrz"
+                                },
+                                {
+                                    "word": "liberal",
+                                    "translation": "liberalny"
+                                },
+                                {
+                                    "translation": "burmistrz",
+                                    "word": "mayor"
+                                },
+                                {
+                                    "word": "national identity",
+                                    "translation": "tożsamość narodowa"
+                                },
+                                {
+                                    "translation": "burmistrz",
+                                    "word": "mayor"
+                                },
+                                {
+                                    "translation": "partia polityczna",
+                                    "word": "political party"
+                                },
+                                {
+                                    "translation": "Izba Lordów",
+                                    "word": "the House of Lords"
+                                },
+                                {
+                                    "word": "the House of Lords",
+                                    "translation": "Izba Lordów"
+                                },
+                                {
+                                    "translation": "lud",
+                                    "word": "the people"
+                                },
+                                {
+                                    "word": "honour a promise",
+                                    "translation": "spełniać obietnicę"
+                                },
+                                {
+                                    "translation": "elektorat",
+                                    "word": "electorate"
+                                },
+                                {
+                                    "word": "honour a promise",
+                                    "translation": "spełniać obietnicę"
+                                },
+                                {
+                                    "word": "vote for",
+                                    "translation": "głosować na"
+                                },
+                                {
+                                    "translation": "kandydować na urząd",
+                                    "word": "run for office"
+                                },
+                                {
+                                    "translation": "granica",
+                                    "word": "border"
+                                },
+                                {
+                                    "translation": "większość",
+                                    "word": "majority"
+                                }
+                            ],
+                            "points": 201,
+                            "level": 6
+                        },
+                        "part_07": {
+                            "level": 1,
+                            "goodAnswers": [],
+                            "points": 0
+                        },
+                        "part_08": {
+                            "points": 0,
+                            "level": 1,
+                            "goodAnswers": []
+                        },
+                        "part_03": {
+                            "goodAnswers": [
+                                {
+                                    "word": "weapons of mass destruction",
+                                    "translation": "broń masowego rażenia"
+                                },
+                                {
+                                    "word": "fighting",
+                                    "translation": "walki"
+                                },
+                                {
+                                    "word": "petition",
+                                    "translation": "petycja"
+                                },
+                                {
+                                    "translation": "walki",
+                                    "word": "fighting"
+                                },
+                                {
+                                    "word": "petition",
+                                    "translation": "petycja"
+                                },
+                                {
+                                    "translation": "wybuchnąć",
+                                    "word": "explode"
+                                },
+                                {
+                                    "translation": "agresywny",
+                                    "word": "violent"
+                                },
+                                {
+                                    "translation": "międzynarodowy",
+                                    "word": "international"
+                                },
+                                {
+                                    "word": "violent",
+                                    "translation": "agresywny"
+                                },
+                                {
+                                    "translation": "żołnierz",
+                                    "word": "soldier"
+                                },
+                                {
+                                    "translation": "pociski gumowe",
+                                    "word": "rubber bullets"
+                                },
+                                {
+                                    "translation": "siły zbrojne",
+                                    "word": "armed forces"
+                                },
+                                {
+                                    "word": "send in troops",
+                                    "translation": "wysłać oddziały wojskowe"
+                                },
+                                {
+                                    "word": "armed forces",
+                                    "translation": "siły zbrojne"
+                                },
+                                {
+                                    "translation": "sprawy zagraniczne",
+                                    "word": "foreign affairs"
+                                },
+                                {
+                                    "translation": "demonstrować",
+                                    "word": "demonstrate"
+                                },
+                                {
+                                    "translation": "sprawy zagraniczne",
+                                    "word": "foreign affairs"
+                                },
+                                {
+                                    "translation": "podpisać traktat",
+                                    "word": "sign a treaty"
+                                },
+                                {
+                                    "word": "war",
+                                    "translation": "wojna"
+                                },
+                                {
+                                    "word": "bomb",
+                                    "translation": "bomba"
+                                },
+                                {
+                                    "translation": "powstanie",
+                                    "word": "uprising"
+                                },
+                                {
+                                    "word": "invade",
+                                    "translation": "najechać"
+                                },
+                                {
+                                    "translation": "powstanie",
+                                    "word": "uprising"
+                                },
+                                {
+                                    "translation": "konflikt wewnętrzny",
+                                    "word": "domestic conflict"
+                                },
+                                {
+                                    "word": "terrorist",
+                                    "translation": "terrorysta"
+                                },
+                                {
+                                    "translation": "wycofać oddziały wojskowe",
+                                    "word": "withdraw troops"
+                                },
+                                {
+                                    "word": "riot",
+                                    "translation": "zamieszki"
+                                }
+                            ],
+                            "level": 3,
+                            "points": 38
+                        },
+                        "part_02": {
+                            "goodAnswers": [],
+                            "points": 30,
+                            "complete": 1,
+                            "level": 3,
+                            "languageOrder": {
+                                "word": "translation",
+                                "translation": "word"
+                            }
+                        },
+                        "part_06": {
+                            "level": 1,
+                            "points": 0
+                        },
+                        "part_04": {
+                            "points": 0,
+                            "level": 1
+                        },
+                        "test": {
+                            "level": 1,
+                            "points": 0
+                        },
+                        "part_05": {
+                            "points": 0,
+                            "level": 1
+                        }
+                    }
+                }
+            }
+        },
+        "book_02": {
+            "units": {
+                "unit_03": {
+                    "parts": {
+                        "part_02": {
+                            "points": 0,
+                            "level": 1
+                        },
+                        "part_06": {
+                            "points": 0,
+                            "level": 1
+                        },
+                        "part_03": {
+                            "points": 0,
+                            "level": 1
+                        },
+                        "part_07": {
+                            "level": 1,
+                            "points": 0
+                        },
+                        "part_04": {
+                            "points": 0,
+                            "level": 1
+                        },
+                        "part_08": {
+                            "points": 0,
+                            "level": 1
+                        },
+                        "test": {
+                            "points": 0,
+                            "level": 1
+                        },
+                        "part_01": {
+                            "points": 0,
+                            "level": 1
+                        },
+                        "part_05": {
+                            "points": 0,
+                            "level": 1
+                        }
+                    }
+                },
+                "unit_02": {
+                    "parts": {
+                        "part_09": {
+                            "points": 0,
+                            "level": 1
+                        },
+                        "part_11": {
+                            "points": 0,
+                            "level": 1
+                        },
+                        "part_12": {
+                            "level": 1,
+                            "points": 0
+                        },
+                        "part_08": {
+                            "level": 1,
+                            "points": 0
+                        },
+                        "test": {
+                            "points": 0,
+                            "level": 1
+                        },
+                        "part_06": {
+                            "level": 1,
+                            "points": 0
+                        },
+                        "part_04": {
+                            "points": 0,
+                            "level": 1
+                        },
+                        "part_10": {
+                            "points": 0,
+                            "level": 1
+                        },
+                        "part_05": {
+                            "level": 1,
+                            "points": 0
+                        },
+                        "part_03": {
+                            "points": 0,
+                            "level": 1
+                        },
+                        "part_07": {
+                            "points": 0,
+                            "level": 1
+                        },
+                        "part_02": {
+                            "points": 0,
+                            "level": 1
+                        },
+                        "part_01": {
+                            "level": 1,
+                            "points": 0
+                        }
+                    }
+                },
+                "unit_01": {
+                    "parts": {
+                        "part_03": {
+                            "level": 1,
+                            "points": 0
+                        },
+                        "part_08": {
+                            "points": 0,
+                            "level": 1
+                        },
+                        "part_10": {
+                            "points": 0,
+                            "level": 1
+                        },
+                        "part_04": {
+                            "level": 1,
+                            "points": 0
+                        },
+                        "test": {
+                            "points": 0,
+                            "level": 1
+                        },
+                        "part_01": {
+                            "points": 0,
+                            "level": 1
+                        },
+                        "part_09": {
+                            "level": 1,
+                            "points": 0
+                        },
+                        "part_06": {
+                            "level": 1,
+                            "points": 0
+                        },
+                        "part_07": {
+                            "level": 1,
+                            "points": 0
+                        },
+                        "part_12": {
+                            "level": 1,
+                            "points": 0
+                        },
+                        "part_02": {
+                            "points": 0,
+                            "level": 1
+                        },
+                        "part_11": {
+                            "level": 1,
+                            "points": 0
+                        },
+                        "part_05": {
+                            "points": 0,
+                            "level": 1
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "langChanges": 3
+}

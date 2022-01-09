@@ -1,0 +1,10 @@
+{
+	"pl": {
+		"start": "Zaczynamy!",
+		"restart": "Jeszcze raz!"
+	},
+	"en": {
+		"start": "Here we go!",
+		"restart": "Once more!"
+	}
+}

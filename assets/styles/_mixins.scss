@@ -1,0 +1,87 @@
+@import '_variables';
+
+@mixin hover {
+	cursor: pointer;
+	@media (hover:hover) {
+		&:hover {
+			@content;
+		}
+	}
+}
+
+@mixin mhover {
+	@media (hover:none) {
+		@content;
+	}
+}
+
+@mixin ellipsis {
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+@mixin scroll-y {
+	overflow-y: scroll;
+	scrollbar-color: $bg-secondary transparent;
+	scrollbar-width: thin;
+	&::-webkit-scrollbar {
+		width: 5px;
+	}
+	&::-webkit-scrollbar-thumb {
+		background: $bg-secondary;
+		@include hover {
+			background: $text-secondary;
+		}
+	}
+	&::-webkit-scrollbar-track {
+		background: transparent;
+	}
+}
+@mixin scroll-x {
+	overflow-x: scroll;
+	scrollbar-color: $text-secondary transparent;
+	scrollbar-width: thin;
+	&::-webkit-scrollbar {
+		height: 5px;
+	}
+	&::-webkit-scrollbar-thumb {
+		background: $bg-secondary;
+		@include hover {
+			background: $text-secondary;
+		}
+	}
+	&::-webkit-scrollbar-track {
+		background: transparent;
+	}
+}
+@mixin line-bottom {
+	position: relative;
+	padding-bottom: 9px;
+	&::after {
+		content: '';
+		position: absolute;
+		bottom: 5%;
+		left: 50%;
+		transform: translateX(-50%);
+		height: 3px;
+		width: 50%;
+		background-color: $decorative;
+		clip-path: ellipse(50% 50% at 50% 50%);
+	}
+}
+// @mixin line-top {
+// 	position: relative;
+// 	padding-top: 15px;
+// 	&::before {
+// 		content: '';
+// 		position: absolute;
+// 		top: 0;
+// 		left: 50%;
+// 		transform: translateX(- math.div(75px, 2));
+// 		height: 4px;
+// 		width: 15px;
+// 		background-color: $red;
+// 		border-radius: 2px;
+// 		box-shadow: 20px 0 $yellow, 40px 0 $blue, 60px 0 $green;
+// 	}
+// }

@@ -1,0 +1,16 @@
+{
+	"pl": {
+		"games": {
+			"spin-the-bottle": "Gra w butelkę",
+			"hangman": "Wisielec",
+			"memory": "Gra pamięciowa"
+		}
+	},
+	"en": {
+		"games": {
+			"spin-the-bottle": "Spin the bottle",
+			"hangman": "Hangman",
+			"memory": "Memory"
+		}
+	}
+}

@@ -1,0 +1,454 @@
+[
+	{
+		"id": "czlowiek",
+		"title": "Człowiek",
+		"parts": [
+			{
+				"id": "dane-osobowe",
+				"name": "Dane osobowe"
+			},
+			{
+				"id": "wyglad-zewnetrzny",
+				"name": "Wygląd zewnętrzny"
+			},
+			{
+				"id": "ubrania",
+				"name": "Ubrania"
+			},
+			{
+				"id": "cechy-charakteru",
+				"name": "Cechy charakteru"
+			},
+			{
+				"id": "uczucia-i-emocje",
+				"name": "Uczucia i emocje"
+			},
+			{
+				"id": "zainteresowania",
+				"name": "Zainteresowania"
+			},
+			{
+				"id": "problemy-etyczne",
+				"name": "Problemy etyczne"
+			},
+			{
+				"id": "inne",
+				"name": "Inne"
+			}
+		]
+	},
+	{
+		"id": "dom",
+		"title": "Dom",
+		"parts": [
+			{
+				"id": "miejsce-zamieszkania",
+				"name": "Miejsce zamieszkania"
+			},
+			{
+				"id": "opis-domu",
+				"name": "Opis domu"
+			},
+			{
+				"id": "prace-w-domu-i-ogrodzie",
+				"name": "Prace w domu i ogrodzie"
+			},
+			{
+				"id": "wynajem-kupno-i-sprzedaz-nieruchomosci",
+				"name": "Wynajem, kupno i sprzedaż nieruchomości"
+			},
+			{
+				"id": "inne",
+				"name": "Inne"
+			}
+		]
+	},
+	{
+		"id": "szkola",
+		"title": "Szkoła",
+		"parts": [
+			{
+				"id": "przedmioty-szkolne",
+				"name": "Przedmioty szkolne"
+			},
+			{
+				"id": "oceny-i-wymagania",
+				"name": "Oceny i wymagania"
+			},
+			{
+				"id": "zycie-szkolne",
+				"name": "Życie szkolne"
+			},
+			{
+				"id": "zajecia-pozalekcyjne",
+				"name": "Zajęcia pozalekcyjne"
+			},
+			{
+				"id": "system-oswiaty",
+				"name": "System oświaty"
+			},
+			{
+				"id": "inne",
+				"name": "Inne"
+			}
+		]
+	},
+	{
+		"id": "praca",
+		"title": "Praca",
+		"parts": [
+			{
+				"id": "zawody-i-zwiazane-z-nimi-czynnosci",
+				"name": "Zawody i związane z nimi czynności"
+			},
+			{
+				"id": "warunki-pracy-i-zatrudnienia",
+				"name": "Warunki pracy i zatrudnienia"
+			},
+			{
+				"id": "praca-dorywcza",
+				"name": "Praca dorywcza"
+			},
+			{
+				"id": "rynek-pracy",
+				"name": "Rynek pracy"
+			},
+			{
+				"id": "inne",
+				"name": "Inne"
+			}
+		]
+	},
+	{
+		"id": "zycie-rodzinne-i-towarzyskie",
+		"title": "Życie rodzinne i towarzyskie",
+		"parts": [
+			{
+				"id": "etapy-zycia",
+				"name": "Etapy życia"
+			},
+			{
+				"id": "czlonkowie-rodziny-koledzy-i-przyjaciele",
+				"name": "Członkowie rodziny, koledzy i przyjaciele"
+			},
+			{
+				"id": "czynnosci-zycia-codziennego",
+				"name": "Czynności życia codziennego"
+			},
+			{
+				"id": "formy-spedzania-czasu-wolnego",
+				"name": "Formy spędzania czasu wolnego"
+			},
+			{
+				"id": "swieta-i-uroczystosci",
+				"name": "Święta i uroczystości"
+			},
+			{
+				"id": "styl-zycia-konflikty-i-problemy",
+				"name": "Styl życia, konflikty i problemy"
+			},
+			{
+				"id": "inne",
+				"name": "Inne"
+			}
+		]
+	},
+	{
+		"id": "zywienie",
+		"title": "Żywienie",
+		"parts": [
+			{
+				"id": "artykuly-spozywcze",
+				"name": "Artykuły spożywcze"
+			},
+			{
+				"id": "posilki-i-ich-przygotowanie",
+				"name": "Posiłki i ich przygotowanie"
+			},
+			{
+				"id": "lokale-gastronomiczne",
+				"name": "Lokale gastronomiczne"
+			},
+			{
+				"id": "diety",
+				"name": "Diety"
+			},
+			{
+				"id": "inne",
+				"name": "Inne"
+			}
+		]
+	},
+	{
+		"id": "zakupy-i-uslugi",
+		"title": "Zakupy i usługi",
+		"parts": [
+			{
+				"id": "rodzaje-sklepow",
+				"name": "Rodzaje sklepów"
+			},
+			{
+				"id": "opisywanie-towarow",
+				"name": "Opisywanie towarów"
+			},
+			{
+				"id": "sprzedawanie-i-kupowanie",
+				"name": "Sprzedawanie i kupowanie"
+			},
+			{
+				"id": "reklamacje",
+				"name": "Reklamacje"
+			},
+			{
+				"id": "reklama",
+				"name": "Reklama"
+			},
+			{
+				"id": "korzystanie-z-uslug",
+				"name": "Korzystanie z uslug"
+			},
+			{
+				"id": "srodki-platnicze",
+				"name": "Środki platnicze"
+			},
+			{
+				"id": "banki",
+				"name": "Banki"
+			},
+			{
+				"id": "ubezpieczenie",
+				"name": "Ubezpieczenie"
+			},
+			{
+				"name": "Inne",
+				"id": "inne"
+			}
+		]
+	},
+	{
+		"id": "podrozowanie-i-turystyka",
+		"title": "Podróżowanie i turystyka",
+		"parts": [
+			{
+				"id": "podrozowanie-i-srodki-transportu",
+				"name": "Podróżowanie i środki transportu"
+			},
+			{
+				"id": "informacja-turystyczna",
+				"name": "Informacja turystyczna"
+			},
+			{
+				"id": "baza-noclegowa",
+				"name": "Baza noclegowa"
+			},
+			{
+				"id": "wycieczki-i-zwiedzanie",
+				"name": "Wycieczki i zwiedzanie"
+			},
+			{
+				"id": "wypadki",
+				"name": "Wypadki"
+			},
+			{
+				"id": "inne",
+				"name": "Inne"
+			}
+		]
+	},
+	{
+		"id": "kultura",
+		"title": "Kultura",
+		"parts": [
+			{
+				"id": "dziedziny-kultury",
+				"name": "Dziedziny kultury"
+			},
+			{
+				"id": "tworcy-i-ich-dziela",
+				"name": "Twórcy i ich dziela"
+			},
+			{
+				"id": "uczestnictwo-w-kulturze",
+				"name": "Uczestnictwo w kulturze"
+			},
+			{
+				"id": "media",
+				"name": "Media"
+			},
+			{
+				"id": "inne",
+				"name": "Inne"
+			}
+		]
+	},
+	{
+		"id": "sport",
+		"title": "Sport",
+		"parts": [
+			{
+				"id": "dyscypliny-sportu",
+				"name": "Dyscypliny sportu"
+			},
+			{
+				"id": "imprezy-sportowe",
+				"name": "Imprezy sportowe"
+			},
+			{
+				"id": "sport-wyczynowy",
+				"name": "Sport wyczynowy"
+			},
+			{
+				"id": "inne",
+				"name": "Inne"
+			}
+		]
+	},
+	{
+		"id": "zdrowie",
+		"title": "Zdrowie",
+		"parts": [
+			{
+				"id": "samopoczucie",
+				"name": "Samopoczucie"
+			},
+			{
+				"id": "czesci-ciala",
+				"name": "Części ciała"
+			},
+			{
+				"id": "choroby-ich-objawy-i-leczenie",
+				"name": "Choroby, ich objawy i leczenie"
+			},
+			{
+				"id": "zdrowy-styl-zycia",
+				"name": "Zdrowy styl życia"
+			},
+			{
+				"id": "niepelnosprawni",
+				"name": "Niepełnosprawni"
+			},
+			{
+				"id": "uzaleznienia",
+				"name": "Uzależnienia"
+			},
+			{
+				"id": "ochrona-zdrowia",
+				"name": "Ochrona zdrowia"
+			},
+			{
+				"id": "inne",
+				"name": "Inne"
+			}
+		]
+	},
+	{
+		"title": "Nauka i technika",
+		"id": "nauka-i-technika",
+		"parts": [
+			{
+				"id": "dziedziny-nauki-i-naukowcy",
+				"name": "Dziedziny nauki i naukowcy"
+			},
+			{
+				"id": "wynalazki-i-odkrycia",
+				"name": "Wynalazki i odkrycia"
+			},
+			{
+				"id": "badania-naukowe",
+				"name": "Badania naukowe"
+			},
+			{
+				"id": "korzystanie-z-urzadzen-technicznych",
+				"name": "Korzystanie z urządzeń technicznych"
+			},
+			{
+				"id": "technologie-informacyjno-komunikacyjne",
+				"name": "Technologie informacyjno - komunikacyjne"
+			},
+			{
+				"id": "awarie-techniczne",
+				"name": "Awarie techniczne"
+			},
+			{
+				"id": "inne",
+				"name": "Inne"
+			}
+		]
+	},
+	{
+		"id": "swiat-przyrody",
+		"title": "Świat przyrody",
+		"parts": [
+			{
+				"id": "pogoda-i-klimat",
+				"name": "Pogoda i klimat"
+			},
+			{
+				"id": "rosliny",
+				"name": "Rośliny"
+			},
+			{
+				"id": "krajobraz",
+				"name": "Krajobraz"
+			},
+			{
+				"id": "zagrozenia-srodowiska-naturalnego",
+				"name": "Zagrożenia środowiska naturalnego"
+			},
+			{
+				"id": "ochrona-srodowiska-naturalnego",
+				"name": "Ochrona środowiska naturalnego"
+			},
+			{
+				"id": "kleski-zywiolowe",
+				"name": "Klęski żywiołowe"
+			},
+			{
+				"id": "przestrzen-kosmiczna",
+				"name": "Przestrzeń kosmiczna"
+			},
+			{
+				"id": "inne",
+				"name": "Inne"
+			}
+		]
+	},
+	{
+		"id": "panstwo-i-spoleczenstwo",
+		"title": "Państwo i społeczeństwo",
+		"parts": [
+			{
+				"id": "struktura-panstwa-i-urzedy",
+				"name": "Struktura państwa i urzędy"
+			},
+			{
+				"id": "organizacje-spoleczne-i-miedzynarodowe",
+				"name": "Organizacje społeczne i międzynarodowe"
+			},
+			{
+				"id": "konflikty-wewnetrzne-i-miedzynarodowe",
+				"name": "Konflikty wewnętrzne i międzynarodowe"
+			},
+			{
+				"id": "przestepczosc",
+				"name": "Przestępczość"
+			},
+			{
+				"id": "wymiar-sprawiedliwosci",
+				"name": "Wymiar sprawiedliwości"
+			},
+			{
+				"id": "polityka-spoleczna",
+				"name": "Polityka społeczna"
+			},
+			{
+				"id": "gospodarka",
+				"name": "Gospodarka"
+			},
+			{
+				"id": "inne",
+				"name": "Inne"
+			}
+		]
+	}
+]

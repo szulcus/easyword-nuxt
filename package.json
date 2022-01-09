@@ -1,0 +1,48 @@
+{
+  "name": "sc-nuxt",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "dev:host": "nuxt --hostname 0.0.0.0 --port 8000",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "lint": "eslint --ext .ts,.js,.vue ."
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.4",
+    "@fortawesome/fontawesome-svg-core": "^1.2.35",
+    "@fortawesome/free-brands-svg-icons": "^5.15.3",
+    "@fortawesome/free-solid-svg-icons": "^5.15.3",
+    "@fortawesome/vue-fontawesome": "^2.0.2",
+    "@nuxt/types": "^2.15.8",
+    "@nuxt/typescript-build": "^2.1.0",
+    "@nuxtjs/axios": "^5.13.6",
+    "@nuxtjs/dayjs": "^1.4.0",
+    "@nuxtjs/eslint-config-typescript": "^8.0.0",
+    "@nuxtjs/eslint-module": "^3.0.2",
+    "@nuxtjs/firebase": "^7.6.1",
+    "@nuxtjs/fontawesome": "^1.1.2",
+    "@nuxtjs/i18n": "^7.0.3",
+    "@nuxtjs/pwa": "^3.3.5",
+    "@types/latinize": "^0.2.15",
+    "array-shuffle": "^3.0.0",
+    "core-js": "^3.15.1",
+    "fast-shuffle": "^4.5.1",
+    "firebase": "^8.8.1",
+    "knuth-shuffle-seeded": "^1.0.6",
+    "latinize": "^0.5.0",
+    "lottie-web": "^5.7.13",
+    "nuxt": "^2.15.7",
+    "nuxt-gsap-module": "^1.4.0",
+    "nuxt-typed-vuex": "^0.2.0",
+    "param-case": "^3.0.4"
+  },
+  "devDependencies": {
+    "@nuxt/image": "^0.6.0",
+    "@nuxtjs/style-resources": "^1.2.1",
+    "sass": "~1.32.6",
+    "sass-loader": "^10.2.0"
+  }
+}
